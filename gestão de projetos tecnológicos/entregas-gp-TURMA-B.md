@@ -3,16 +3,15 @@ ___
 
 #### Entregas em andamento
 
-- Cronograma + Diagrama de Gantt - Até 23/05/2025 as 23:59                                               
-    + Finalizar tabela com atividades
-    + Definir as dependências de todas as atividades (Aula 12, Slide 23)
-    + Estimar duração de cada atividade com PERT (Aula 12, Slide 36)
-    + Construir diagrama de Gantt (Aula 13)
-    + Ferramenta para criar o diagrama: https://www.onlinegantt.com/#/gantt
-    + Atividade vale 0,5 pontos da parte prática da disciplina
-    + Para a entrega desse trabalho, utilize o link: https://forms.gle/WB9fCu2RxaTpabPN9
-
 #### Entregas finalizadas
+- ~~Cronograma + Diagrama de Gantt - Até 23/05/2025 as 23:59~~                                               
+    + ~~Finalizar tabela com atividades~~
+    + ~~Definir as dependências de todas as atividades (Aula 12, Slide 23)~~
+    + ~~Estimar duração de cada atividade com PERT (Aula 12, Slide 36)~~
+    + ~~Construir diagrama de Gantt (Aula 13)~~
+    + ~~Ferramenta para criar o diagrama: https://www.onlinegantt.com/#/gantt~~
+    + ~~Atividade vale 0,5 pontos da parte prática da disciplina~~
+    + ~~Para a entrega desse trabalho, utilize o link: https://forms.gle/WB9fCu2RxaTpabPN9~~
 
 - ~~Cronograma - Até 09/05/2025 as 23:59~~                                                
     + ~~Construir tabela com: id da atividade, descrição da tarefa, duração, predecessora e tipo de dependência (slides 29 e 41)~~
