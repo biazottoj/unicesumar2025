@@ -2,6 +2,13 @@
 ___
 
 #### Entregas em andamento
+- Estimativa de Software - Até (TBA)                                              
+    + Baseado no projeto da escola de T.I, o objetivo da atividade é aplicar a técnica de pontos de função; 
+    + Para isso, escolham 3 funcionalidades do seu projeto para estimar, sendo:
+        * 1 cadastro simples (cliente, local, etc.)
+        * 2 movimentos (e.g., compra, venda, locação, etc.) => isso é, tem algum tipo de processamento
+    + Sigam o modelo a seguir para reportar a atividade: https://docs.google.com/document/d/1dfEZNyFLWfq4MPpk9nFrki_3OqwLwSmL0LCwlIGxVZI/edit?usp=sharing
+    + Valor: 1,0
 
 #### Entregas finalizadas
 - ~~Cronograma + Diagrama de Gantt - Até 23/05/2025 as 23:59~~                                               
