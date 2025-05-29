@@ -2,7 +2,7 @@
 ___
 
 #### Entregas em andamento
-- Estimativa de Software - Até (TBA)                                              
+- Estimativa de Software - Até 08/06/2025 as 23:59                                              
     + Baseado no projeto da escola de T.I, o objetivo da atividade é aplicar a técnica de pontos de função; 
     + Para isso, escolham 3 funcionalidades do seu projeto para estimar, sendo:
         * 1 cadastro simples (cliente, local, etc.)
