@@ -8,6 +8,7 @@ ___
         * 1 cadastro simples (cliente, local, etc.)
         * 2 movimentos (e.g., compra, venda, locação, etc.) => isso é, tem algum tipo de processamento
     + Sigam o modelo a seguir para reportar a atividade: https://docs.google.com/document/d/1dfEZNyFLWfq4MPpk9nFrki_3OqwLwSmL0LCwlIGxVZI/edit?usp=sharing
+    + Planilha de pontos de função: https://docs.google.com/spreadsheets/d/1hjTLpPJudnobbQ1AhK68ueyS_5YtibNNzPlPO7R4oE0/edit?usp=sharing
     + Valor: 1,0
 
 #### Entregas finalizadas
