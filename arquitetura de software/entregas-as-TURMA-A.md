@@ -3,7 +3,7 @@ ___
 
 #### Entregas em andamento
 
-- Atividade 11 - Arquitetura de Microsserviços - Até TBD                                             
+- Atividade 11 - Arquitetura de Microsserviços - Até 10/06/2025  as 23:59                                             
     + Entrega da implementação do aplicativo de reserva de livros, utilizando microsserviços;
     + O trabalho vale 0,5 referente a parte prática da disciplina.
     + Descrição da atividade: https://github.com/biazottoj/unicesumar2025/blob/main/arquitetura%20de%20software/atividades/Atividade%2011%20-%20Sistema%20de%20Reserva%20de%20Livros%20(Microsservi%C3%A7os).pdf
