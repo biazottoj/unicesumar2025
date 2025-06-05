@@ -3,7 +3,7 @@ ___
 
 #### Entregas em andamento
 
-- Atividade Extra - Arquitetura de Microsserviços, Docker e Kuberneted - Até 05/06/2025 as 21:10                                          
+- Atividade Extra - Arquitetura de Microsserviços, Docker e Kuberneted - Até 05/06/2025 as 20:40                                          
     + Resolução da atividade proposta em sala
     + O trabalho vale 0,5 extra; apenas para os alunos que estavam presentes.
     + Descrição da atividade: https://github.com/biazottoj/unicesumar2025/blob/main/arquitetura%20de%20software/atividades/Atividade%20de%20Revis%C3%A3o%20-%20Microsservi%C3%A7os%2C%20Docker%20e%20Kubernetes.pdf
