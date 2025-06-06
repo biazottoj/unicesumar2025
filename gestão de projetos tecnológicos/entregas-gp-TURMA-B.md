@@ -2,6 +2,13 @@
 ___
 
 #### Entregas em andamento
+
+- Modelos de Maturidade e CMMI - Até 06/06/2025 as 21:00                                              
+    + Descrição da atividade está no repositório da disciplina;
+    + Crie um documento (Google Docs) e compartilhe o link
+    + Para a entrega desse trabalho, utilize o link: https://forms.gle/zmS4JnUyji77EXzY8
+    + Valor: 1,0
+
 - Estimativa de Software - Até 11/06/2025 as 23:59                                              
     + Baseado no projeto da escola de T.I, o objetivo da atividade é aplicar a técnica de pontos de função; 
     + Para isso, escolham 3 funcionalidades do seu projeto para estimar, sendo:
@@ -9,6 +16,7 @@ ___
         * 2 movimentos (e.g., compra, venda, locação, etc.) => isso é, tem algum tipo de processamento
     + Sigam o modelo a seguir para reportar a atividade: https://docs.google.com/document/d/1dfEZNyFLWfq4MPpk9nFrki_3OqwLwSmL0LCwlIGxVZI/edit?usp=sharing
     + Valor: 1,0
+
 
 #### Entregas finalizadas
 - ~~Cronograma + Diagrama de Gantt - Até 23/05/2025 as 23:59~~                                               
