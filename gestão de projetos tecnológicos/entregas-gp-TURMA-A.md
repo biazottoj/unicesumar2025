@@ -2,7 +2,7 @@
 ___
 
 #### Entregas em andamento
-- Modelos de Maturidade e CMMI - Até 06/06/2025 as 21:00                                              
+- Modelos de Maturidade e CMMI - Até 09/06/2025 as 21:00                                              
     + Descrição da atividade está no repositório da disciplina;
     + Trabalho deverá ser feito na equipe da Escola de T.I;
     + Crie um documento (Google Docs) e compartilhe o link
@@ -17,6 +17,7 @@ ___
     + Sigam o modelo a seguir para reportar a atividade: https://docs.google.com/document/d/1dfEZNyFLWfq4MPpk9nFrki_3OqwLwSmL0LCwlIGxVZI/edit?usp=sharing
     + Planilha de pontos de função: https://docs.google.com/spreadsheets/d/1hjTLpPJudnobbQ1AhK68ueyS_5YtibNNzPlPO7R4oE0/edit?usp=sharing
     + Valor: 1,0
+    + Link para a entrega: https://forms.gle/vuEDHZcHF9reJGZH7
 
 #### Entregas finalizadas
 - ~~Cronograma + Diagrama de Gantt - Até 22/05/2025 as 23:59~~                                               

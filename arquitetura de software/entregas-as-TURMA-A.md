@@ -6,7 +6,7 @@ ___
     + Entrega da implementação do aplicativo de reserva de livros, utilizando microsserviços;
     + O trabalho vale 0,5 referente a parte prática da disciplina.
     + Descrição da atividade: https://github.com/biazottoj/unicesumar2025/blob/main/arquitetura%20de%20software/atividades/Atividade%2011%20-%20Sistema%20de%20Reserva%20de%20Livros%20(Microsservi%C3%A7os).pdf
-    + Para a entrega desse trabalho, utilize o link: TBD
+    + Para a entrega desse trabalho, utilize o link: https://forms.gle/KD6fKTBvRXpTQKE7A
 
 
 #### Entregas finalizadas
