@@ -12,7 +12,7 @@ ___
 
 
 #### Entregas finalizadas
-- ~~Modelos de Maturidade e CMMI - Até 06/06/2025 as 21:00                                              
+- ~~Modelos de Maturidade e CMMI - Até 06/06/2025 as 21:00~~                                              
     + ~~Descrição da atividade está no repositório da disciplina;~~
     + ~~Trabalho deve ser feito pelo grupo da Escola de T.I;~~
     + ~~Crie um documento (Google Docs) e compartilhe o link;~~
