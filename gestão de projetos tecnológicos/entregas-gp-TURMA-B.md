@@ -2,13 +2,6 @@
 ___
 
 #### Entregas em andamento
-
-- Modelos de Maturidade e CMMI - Até 06/06/2025 as 21:00                                              
-    + Descrição da atividade está no repositório da disciplina;
-    + Crie um documento (Google Docs) e compartilhe o link
-    + Para a entrega desse trabalho, utilize o link: https://forms.gle/zmS4JnUyji77EXzY8
-    + Valor: 1,0
-
 - Estimativa de Software - Até 11/06/2025 as 23:59                                              
     + Baseado no projeto da escola de T.I, o objetivo da atividade é aplicar a técnica de pontos de função; 
     + Para isso, escolham 3 funcionalidades do seu projeto para estimar, sendo:
@@ -19,6 +12,13 @@ ___
 
 
 #### Entregas finalizadas
+- ~~Modelos de Maturidade e CMMI - Até 06/06/2025 as 21:00                                              
+    + ~~Descrição da atividade está no repositório da disciplina;~~
+    + ~~Trabalho deve ser feito pelo grupo da Escola de T.I;~~
+    + ~~Crie um documento (Google Docs) e compartilhe o link;~~
+    + ~~Para a entrega desse trabalho, utilize o link: https://forms.gle/zmS4JnUyji77EXzY8~~
+    + ~~Valor: 1,0.~~
+
 - ~~Cronograma + Diagrama de Gantt - Até 23/05/2025 as 23:59~~                                               
     + ~~Finalizar tabela com atividades~~
     + ~~Definir as dependências de todas as atividades (Aula 12, Slide 23)~~

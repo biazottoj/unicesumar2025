@@ -2,13 +2,6 @@
 ___
 
 #### Entregas em andamento
-
-- Atividade Extra - Arquitetura de Microsserviços, Docker e Kuberneted - Até 05/06/2025 as 20:40                                          
-    + Resolução da atividade proposta em sala
-    + O trabalho vale 0,5 extra; apenas para os alunos que estavam presentes.
-    + Descrição da atividade: https://github.com/biazottoj/unicesumar2025/blob/main/arquitetura%20de%20software/atividades/Atividade%20de%20Revis%C3%A3o%20-%20Microsservi%C3%A7os%2C%20Docker%20e%20Kubernetes.pdf
-    + Para a entrega desse trabalho, utilize o link: https://forms.gle/5acV1wxhgtpX3nuy7
-
 - Atividade 11 - Arquitetura de Microsserviços - Até 10/06/2025  as 23:59                                             
     + Entrega da implementação do aplicativo de reserva de livros, utilizando microsserviços;
     + O trabalho vale 0,5 referente a parte prática da disciplina.
@@ -17,6 +10,12 @@ ___
 
 
 #### Entregas finalizadas
+~~- Atividade Extra - Arquitetura de Microsserviços, Docker e Kuberneted - Até 05/06/2025 as 20:40~~                                          
+    + ~~Resolução da atividade proposta em sala~~
+    + ~~O trabalho vale 0,5 extra; apenas para os alunos que estavam presentes.~~
+    + ~~Descrição da atividade: https://github.com/biazottoj/unicesumar2025/blob/main/arquitetura%20de%20software/atividades/Atividade%20de%20Revis%C3%A3o%20-%20Microsservi%C3%A7os%2C%20Docker%20e%20Kubernetes.pdf~~
+    + ~~Para a entrega desse trabalho, utilize o link: https://forms.gle/5acV1wxhgtpX3nuy7~~
+
 - ~~Atividade 10 - Arquitetura Orientada a Serviços - Até 27/05/2025 as 19:00~~                                                 
     + ~~Entrega da implementação do aplicativo de tendencias de nomes, utilizando SOA.~~
     + ~~O trabalho vale 1,0 referente a parte prática da disciplina~~
