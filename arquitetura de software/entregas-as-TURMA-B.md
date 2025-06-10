@@ -6,14 +6,14 @@ ___
     + Resolução da atividade proposta em sala
     + O trabalho vale 0,5 extra; apenas para os alunos que estavam presentes no dia 09/06/2025.
     + Descrição da atividade: https://github.com/biazottoj/unicesumar2025/blob/main/arquitetura%20de%20software/atividades/Atividade%20de%20Revis%C3%A3o%20-%20Microsservi%C3%A7os%2C%20Docker%20e%20Kubernetes.pdf~~
-    + Para a entrega desse trabalho, utilize o link: https://forms.gle/uxqHzwb21wLeZ95R7
+    + Para a entrega desse trabalho, utilize o link: https://forms.gle/ZNRN88Jf6ZUSZFEp7
 
 
 - Atividade 11 - Arquitetura de Microsserviços - Até 13/06/2025  as 23:59                                             
     + Entrega da implementação do aplicativo de reserva de livros, utilizando microsserviços;
     + O trabalho vale 0,5 referente a parte prática da disciplina.
     + Descrição da atividade: https://github.com/biazottoj/unicesumar2025/blob/main/arquitetura%20de%20software/atividades/Atividade%2011%20-%20Sistema%20de%20Reserva%20de%20Livros%20(Microsservi%C3%A7os).pdf
-    + Para a entrega desse trabalho, utilize o link: TBD
+    + Para a entrega desse trabalho, utilize o link: https://forms.gle/Ai4RgqdgD1Yufdyu9
 
 #### Entregas finalizadas
 - ~~Atividade 10 - Arquitetura Orientada a Serviços - Até 26/05/2025 as 21:00~~                                                 
